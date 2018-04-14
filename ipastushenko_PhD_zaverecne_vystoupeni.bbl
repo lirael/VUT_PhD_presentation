@@ -1,0 +1,92 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{ydnt/global/}
+    \entry{wcist2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=23ff0064f4f49e1b11e6cbeca7ece160}{%
+           family={Hruška},
+           family_i={H\bibinitperiod},
+           given={Olena\bibnamedelimb Pastushenko;\bibnamedelimb Jiří\bibnamedelimb Hynek;\bibnamedelima Tomáš},
+           given_i={O\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{23ff0064f4f49e1b11e6cbeca7ece160}
+      \strng{fullhash}{23ff0064f4f49e1b11e6cbeca7ece160}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-77712-2}
+      \field{journaltitle}{Trends and Advances in Information Systems and Technologies.}
+      \field{title}{Generation of Test Samples for Construction of Dashboard Design Guidelines: Impact of Color on Layout Balance}
+      \field{volume}{746}
+      \field{year}{2018}
+      \field{pages}{980\bibrangedash 990}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-319-77712-2_93
+      \endverb
+    \endentry
+    \entry{bombQuery}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=0103939d1f44465b39939c25166a0dbe}{%
+           family={Pastushenko},
+           family_i={P\bibinitperiod},
+           given={Olena},
+           given_i={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0103939d1f44465b39939c25166a0dbe}
+      \strng{fullhash}{0103939d1f44465b39939c25166a0dbe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Computer Software]}
+      \field{title}{bombsQuery - A game for learning basic jQuery}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://groupexplorer.sourceforge.net
+      \endverb
+    \endentry
+    \entry{generator}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=0103939d1f44465b39939c25166a0dbe}{%
+           family={Pastushenko},
+           family_i={P\bibinitperiod},
+           given={Olena},
+           given_i={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0103939d1f44465b39939c25166a0dbe}
+      \strng{fullhash}{0103939d1f44465b39939c25166a0dbe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Computer Software]}
+      \field{title}{Generator of dashboards interfaces based on selected attributes and XML model}
+      \field{year}{2017}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

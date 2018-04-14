@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.7)  14 APR 2018 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.7)  14 APR 2018 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ilogin_PhD_zaverecne_vystoupeni.tex
-(./ilogin_PhD_zaverecne_vystoupeni.tex
+**ipastushenko_PhD_zaverecne_vystoupeni.tex
+(./ipastushenko_PhD_zaverecne_vystoupeni.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1299,12 +1299,12 @@ File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
 Package biblatex Warning: Patching footnotes failed.
 (biblatex)                Footnote detection will not work.
 
-(./ilogin_PhD_zaverecne_vystoupeni.aux
+(./ipastushenko_PhD_zaverecne_vystoupeni.aux
 
 LaTeX Warning: Label `my-label' multiply defined.
 
 )
-\openout1 = `ilogin_PhD_zaverecne_vystoupeni.aux'.
+\openout1 = `ipastushenko_PhD_zaverecne_vystoupeni.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
@@ -1402,9 +1402,10 @@ LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
 
-(./ilogin_PhD_zaverecne_vystoupeni.out) (./ilogin_PhD_zaverecne_vystoupeni.out)
+(./ipastushenko_PhD_zaverecne_vystoupeni.out)
+(./ipastushenko_PhD_zaverecne_vystoupeni.out)
 \@outlinefile=\write8
-\openout8 = `ilogin_PhD_zaverecne_vystoupeni.out'.
+\openout8 = `ipastushenko_PhD_zaverecne_vystoupeni.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 45.
@@ -1477,16 +1478,17 @@ LaTeX Info: Redefining \includegraphics on input line 45.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout7 = `ilogin_PhD_zaverecne_vystoupeni.bcf'.
+\openout7 = `ipastushenko_PhD_zaverecne_vystoupeni.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'ilogin_PhD_zaverecne_vystoupeni.bbl' not found
-.
+Package biblatex Info: ... file 'ipastushenko_PhD_zaverecne_vystoupeni.bbl' fou
+nd.
 
-No file ilogin_PhD_zaverecne_vystoupeni.bbl.
+(./ipastushenko_PhD_zaverecne_vystoupeni.bbl)
 Package biblatex Info: Reference section=0 on input line 45.
 Package biblatex Info: Reference segment=0 on input line 45.
-(./ilogin_PhD_zaverecne_vystoupeni.nav)
+
+(./ipastushenko_PhD_zaverecne_vystoupeni.nav)
 Underfull \vbox (badness 10000) detected at line 47
  []
 
@@ -1499,107 +1501,88 @@ itlogo1.pdf>]
                    1
 l.59 \end{frame}
                 
-? ^^[[A^^[[A
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
 ? 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer sup
 ported, use 'sorting' option to \newrefcontext.
 
-
-LaTeX Warning: Empty bibliography on input line 59.
-
-LaTeX Font Info:    Try loading font information for OMS+pag on input line 82.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omspag.fd
-File: omspag.fd 
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 59.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Font shape `OMS/pag/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
-LaTeX Font Info:    Try loading font information for U+msa on input line 110.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 110.
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <10> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 110.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 59.
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <7> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 110.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 59.
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <5> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 110.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 59.
+LaTeX Font Info:    Try loading font information for OMS+pag on input line 82.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omspag.fd
+File: omspag.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pag/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
  [2
 
  <./img/fitlogo3.pdf>] [3
+
+ <./img/fitlogo3.pdf>] [4
+
+ <./img/fitlogo3.pdf> </usr/local/texlive/2016/texmf-dist/tex/latex/beamer/art/
+beamericonarticle.pdf>] [5
 
  <./img/fitlogo3.pdf>]pdfTeX warning (ext4): destination with the same identifi
 er (name{my-label}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.175 \end{frame}
-                  [4
+                  [6
 
  <./img/fitlogo3.pdf>]
-<img/screenshot.png, id=55, 1392.20125pt x 814.04124pt>
+<img/screenshot.png, id=87, 1392.20125pt x 814.04124pt>
 File: img/screenshot.png Graphic file (type png)
 
 <use img/screenshot.png>
 Package pdftex.def Info: img/screenshot.png used on input line 187.
-(pdftex.def)             Requested size: 245.83282pt x 143.73874pt.
- [5
+(pdftex.def)             Requested size: 276.559pt x 161.69986pt.
+ [7
 
  <./img/fitlogo3.pdf> <./img/screenshot.png>]
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.236 \end{frame}
-                 
-? ^^[[A^^[[A^^[[A^^[[A^^[[A^^[[A^^[[A
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? 
-
-Underfull \hbox (badness 10000) detected at line 236
-[][]
- []
-
 LaTeX Font Info:    Font shape `OMS/pag/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 236.
-[6
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 237.
 
- <./img/fitlogo3.pdf>] [7
+[8
+
+ <./img/fitlogo3.pdf>] [9
 
 ]
 \tf@nav=\write9
-\openout9 = `ilogin_PhD_zaverecne_vystoupeni.nav'.
+\openout9 = `ipastushenko_PhD_zaverecne_vystoupeni.nav'.
 
 \tf@toc=\write10
-\openout10 = `ilogin_PhD_zaverecne_vystoupeni.toc'.
+\openout10 = `ipastushenko_PhD_zaverecne_vystoupeni.toc'.
 
 \tf@snm=\write11
-\openout11 = `ilogin_PhD_zaverecne_vystoupeni.snm'.
+\openout11 = `ipastushenko_PhD_zaverecne_vystoupeni.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 242.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 242.
- (./ilogin_PhD_zaverecne_vystoupeni.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 242.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 242.
-Package rerunfilecheck Info: File `ilogin_PhD_zaverecne_vystoupeni.out' has not
- changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
+ (./ipastushenko_PhD_zaverecne_vystoupeni.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
+Package rerunfilecheck Info: File `ipastushenko_PhD_zaverecne_vystoupeni.out' h
+as not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -1609,32 +1592,32 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                ilogin_PhD_zaverecne_vystoupeni
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
 
-Package logreq Info: Writing requests to 'ilogin_PhD_zaverecne_vystoupeni.run.x
-ml'.
-\openout1 = `ilogin_PhD_zaverecne_vystoupeni.run.xml'.
+Package logreq Info: Writing requests to 'ipastushenko_PhD_zaverecne_vystoupeni
+.run.xml'.
+\openout1 = `ipastushenko_PhD_zaverecne_vystoupeni.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 242.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
  ) 
 Here is how much of TeX's memory you used:
- 23807 strings out of 493014
- 447605 string characters out of 6133352
- 879473 words of memory out of 5000000
- 26834 multiletter control sequences out of 15000+600000
- 19569 words of font info for 42 fonts, out of 8000000 for 9000
+ 24028 strings out of 493014
+ 452405 string characters out of 6133352
+ 879491 words of memory out of 5000000
+ 27040 multiletter control sequences out of 15000+600000
+ 22054 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,55p,957b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,55p,963b,1209s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on ilogin_PhD_zaverecne_vystoupeni.pdf (7 pages, 253184 bytes).
+ve/2016/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on ipastushenko_PhD_zaverecne_vystoupeni.pdf (9 pages, 270240 by
+tes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

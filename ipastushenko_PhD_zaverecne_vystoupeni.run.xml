@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>ilogin_PhD_zaverecne_vystoupeni.bcf</file>
+      <file>ipastushenko_PhD_zaverecne_vystoupeni.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>ilogin_PhD_zaverecne_vystoupeni.bbl</file>
+      <file>ipastushenko_PhD_zaverecne_vystoupeni.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -60,23 +60,23 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>ilogin_PhD_zaverecne_vystoupeni</infile>
+      <infile>ipastushenko_PhD_zaverecne_vystoupeni</infile>
     </cmdline>
     <input>
-      <file>ilogin_PhD_zaverecne_vystoupeni.bcf</file>
+      <file>ipastushenko_PhD_zaverecne_vystoupeni.bcf</file>
     </input>
     <output>
-      <file>ilogin_PhD_zaverecne_vystoupeni.bbl</file>
+      <file>ipastushenko_PhD_zaverecne_vystoupeni.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>ilogin_PhD_zaverecne_vystoupeni.bbl</file>
+      <file>ipastushenko_PhD_zaverecne_vystoupeni.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>ilogin_PhD_zaverecne_vystoupeni.bcf</file>
+      <file>ipastushenko_PhD_zaverecne_vystoupeni.bcf</file>
     </requires>
     <requires type="editable">
       <file>./publications.bib</file>
