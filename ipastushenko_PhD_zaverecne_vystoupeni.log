@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.7)  14 APR 2018 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.7)  16 APR 2018 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1550,7 +1550,7 @@ l.175 \end{frame}
                   [6
 
  <./img/fitlogo3.pdf>]
-<img/screenshot.png, id=87, 1392.20125pt x 814.04124pt>
+<img/screenshot.png, id=85, 1392.20125pt x 814.04124pt>
 File: img/screenshot.png Graphic file (type png)
 
 <use img/screenshot.png>
@@ -1586,13 +1586,7 @@ as not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please rerun LaTeX.
 
 Package logreq Info: Writing requests to 'ipastushenko_PhD_zaverecne_vystoupeni
 .run.xml'.
@@ -1601,10 +1595,10 @@ Package logreq Info: Writing requests to 'ipastushenko_PhD_zaverecne_vystoupeni
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
  ) 
 Here is how much of TeX's memory you used:
- 24028 strings out of 493014
- 452405 string characters out of 6133352
- 879491 words of memory out of 5000000
- 27040 multiletter control sequences out of 15000+600000
+ 24038 strings out of 493014
+ 452485 string characters out of 6133352
+ 880534 words of memory out of 5000000
+ 27050 multiletter control sequences out of 15000+600000
  22054 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,55p,963b,1209s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1613,11 +1607,11 @@ exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/local/texlive/2016
 /texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on ipastushenko_PhD_zaverecne_vystoupeni.pdf (9 pages, 270240 by
+Output written on ipastushenko_PhD_zaverecne_vystoupeni.pdf (9 pages, 269012 by
 tes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  22 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

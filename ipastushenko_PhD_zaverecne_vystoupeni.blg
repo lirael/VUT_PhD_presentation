@@ -1,15 +1,15 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
-[1] Config.pm:346> INFO - Logfile is 'ipastushenko_PhD_zaverecne_vystoupeni.blg'
-[54] biber-darwin:290> INFO - === сб кві 14, 2018, 21:26:57
-[78] Biber.pm:351> INFO - Reading 'ipastushenko_PhD_zaverecne_vystoupeni.bcf'
-[187] Biber.pm:773> INFO - Using all citekeys in bib section 0
-[200] Biber.pm:3493> INFO - Processing section 0
-[217] Biber.pm:3657> INFO - Looking for bibtex format file './publications.bib' for section 0
-[220] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[220] bibtex.pm:1048> INFO - Found BibTeX data source './publications.bib'
-[273] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[273] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[273] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[273] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[277] bbl.pm:526> INFO - Writing 'ipastushenko_PhD_zaverecne_vystoupeni.bbl' with encoding 'UTF-8'
-[277] bbl.pm:619> INFO - Output to ipastushenko_PhD_zaverecne_vystoupeni.bbl
+[0] Config.pm:346> INFO - Logfile is 'ipastushenko_PhD_zaverecne_vystoupeni.blg'
+[55] biber-darwin:290> INFO - === пн кві 16, 2018, 09:34:20
+[77] Biber.pm:351> INFO - Reading 'ipastushenko_PhD_zaverecne_vystoupeni.bcf'
+[174] Biber.pm:773> INFO - Using all citekeys in bib section 0
+[185] Biber.pm:3493> INFO - Processing section 0
+[204] Biber.pm:3657> INFO - Looking for bibtex format file './publications.bib' for section 0
+[206] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[206] bibtex.pm:1048> INFO - Found BibTeX data source './publications.bib'
+[247] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[247] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[247] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[247] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[251] bbl.pm:526> INFO - Writing 'ipastushenko_PhD_zaverecne_vystoupeni.bbl' with encoding 'UTF-8'
+[251] bbl.pm:619> INFO - Output to ipastushenko_PhD_zaverecne_vystoupeni.bbl

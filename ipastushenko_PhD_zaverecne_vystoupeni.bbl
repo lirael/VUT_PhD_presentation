@@ -64,9 +64,6 @@
       \field{note}{[Computer Software]}
       \field{title}{bombsQuery - A game for learning basic jQuery}
       \field{year}{2018}
-      \verb{url}
-      \verb http://groupexplorer.sourceforge.net
-      \endverb
     \endentry
     \entry{generator}{manual}{}
       \name{author}{1}{}{%

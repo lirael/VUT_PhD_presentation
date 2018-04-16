@@ -11,5 +11,5 @@ Add all publications to `publications.bib`.
 To compile new pdf:
 ```
 pdflatex ipastushenko_PhD_zaverecne_vystoupeni.tex
-ipastushenko_PhD_zaverecne_vystoupeni
+biber ipastushenko_PhD_zaverecne_vystoupeni
 pdflatex ipastushenko_PhD_zaverecne_vystoupeni.tex
